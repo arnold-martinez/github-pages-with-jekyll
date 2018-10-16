@@ -1,7 +1,6 @@
 ---
 title: "My First Blog Post"
 date: 2018-10-16
----
 
 author: Arnold Martinez
 email: arnold@domain.com
@@ -18,3 +17,5 @@ github_username:  arnold-martinez
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
